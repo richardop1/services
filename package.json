@@ -1,0 +1,17 @@
+{
+  "name": "servicio",
+  "version": "1.0.0",
+  "description": "Servicio para el un blog con videos encriptados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "video",
+    "blob"
+  ],
+  "author": "Ricardo Ortiz Perez",
+  "license": "ISC"
+}
